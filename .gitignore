@@ -1,0 +1,6 @@
+*.sass
+New Project.iml
+.idea
+.bin
+.admin
+.config
